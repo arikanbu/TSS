@@ -1,0 +1,3 @@
+'''List of External Packages Used'''
+# pandas    : data is kept as pandas df
+# numpy     : numerical values are numpy arrays 
